@@ -58,3 +58,4 @@ while (condition === true) {
         condition = false;
     }
 }
+console.log("Thank u for using Todo Lists");
